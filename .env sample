@@ -1,0 +1,2 @@
+PORT=3000
+MONGO_URI=mongodb+srv://tiagobondezanbazani_db_user:C3EX8xUVAWkZzkbQ@cluster0.wzjhhbc.mongodb.net/BancoDados?appName=Cluster0
